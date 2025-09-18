@@ -24,9 +24,9 @@
 <ol>
 	<li>Download or clone the project repository to your local machine.</li>
 	<li>Copy the downloaded project to the htdocs folder in your XAMPP installation directory (e.g., C:\xampp\htdocs).</li>
-	<li>Rename the downloaded project folder to <code>bdbms</code>. This will be the name of your project's root directory.</li>
+	<li>Rename the downloaded project folder to <code>hemotrack</code>. This will be the name of your project's root directory.</li>
 	<li>Open XAMPP and start Apache and MySQL.</li>
-	<li>Open a web browser and enter the following URL in the address bar: <code>http://localhost/bdbms/</code>.</li>
+	<li>Open a web browser and enter the following URL in the address bar: <code>http://localhost/hemotrack/</code>.</li>
 </ol>
 
 <h2>Importing the Database</h2>
